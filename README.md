@@ -82,7 +82,7 @@ Before running the project, install:
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone (https://github.com/PragyaAgarwal25/SHOPEASE-A-E-Commerce-Website-.git)
 ```
 
 ### 2. Open the Project Folder
